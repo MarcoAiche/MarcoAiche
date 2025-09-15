@@ -76,18 +76,12 @@
 
 ###
 
-<h3 align="left">📊   My Stats :</h3>
+<h3 align="left">📊 My Stats :</h3>
 
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=MarcoAiche&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div align="left" style="display: flex; gap: 12px; align-items: flex-start;">
+  <img src="https://streak-stats.demolab.com?user=MarcoAiche&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcoAiche&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcoAiche&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
